@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Daftar Makanan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UAS TAKE HOME</string>
+    <string name="nav_header_subtitle">Pengembangan Aplikasi Mobile B2</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dwiky Putra Hardiawan (1703040080)</string>
+    <string name="menu_gallery">Ifan Ardiansyah (1703040076)</string>
+    <string name="menu_slideshow">Ibnu Hazim Alfatih (1703040093)</string>
+    <string name="menu_tools">Mellinia Fitrizky (1703040095)</string>
+    <string name="menu_share">Fakultas Teknik Dan Sains</string>
+    <string name="menu_send">Teknik Informatika</string>
+
+    <string name="find_movie">Mencari Makanan</string>
+    <string name="find">Cari makan</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="date_release">Date Release</string>
+</resources>
